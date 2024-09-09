@@ -1,0 +1,3 @@
+C:/Users/Михаил/Desktop/lab0b/build/CMakeFiles/Table.dir
+C:/Users/Михаил/Desktop/lab0b/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Михаил/Desktop/lab0b/build/CMakeFiles/ZERO_CHECK.dir
