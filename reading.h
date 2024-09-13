@@ -5,4 +5,4 @@
 #include <map>
 using namespace std;
 
-void read_potok(ifstream& file,string& str_word,map<string,int> &chis_slov,int*counts);
+void read_potok(ifstream& file,string& str_word,map<string,int> &num_word,int*counts);
